@@ -23,18 +23,19 @@
             }
             "CBaseCombatWeapon::GetMaxClip1"
             {
-                "windows"   "351"
-                "linux"     "357"
+                "windows"   "352"
+                "linux"     "358"
             }
+
             "CBaseCombatWeapon::GetReserveAmmoMax"
             {
-                "windows"   "355"
-                "linux"     "361"
+                "windows"   "356"
+                "linux"     "362"
             }
             "CBaseCombatWeapon::GetSlot"
             {
-                "windows"   "360"
-                "linux"     "366"
+                "windows"   "361"
+                "linux"     "367"
             }
             "CEconItemDefinition::GetDefinitionIndex"
             {
